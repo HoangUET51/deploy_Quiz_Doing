@@ -1,0 +1,8 @@
+
+{
+    quizId:1
+    answers: [{
+        questionId:1
+        useAnswerId:[3,2,1,]
+    }]
+}
